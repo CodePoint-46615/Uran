@@ -209,9 +209,3 @@ The project successfully demonstrates:
 - **Entity relationships** and **referential integrity**  
 - Use of **joins, subqueries, and views** for analytical purposes  
 
----
-
-## 🪪 License
-This project is developed for **academic and educational purposes** under AIUB CSE Department.  
-=======
->>>>>>> 542ce4c4d7bdd683dc2066a824a936543421088f
