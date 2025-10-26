@@ -106,6 +106,7 @@ CREATE TABLE manager (
   mgr_name VARCHAR2(30) NOT NULL,
   mgr_sal FLOAT NOT NULL CONSTRAINT manager_sal CHECK (mgr_sal BETWEEN 50000 AND 100000)
 );
+<<<<<<< HEAD
 ```
 
 The schema includes:
@@ -212,3 +213,5 @@ The project successfully demonstrates:
 
 ## 🪪 License
 This project is developed for **academic and educational purposes** under AIUB CSE Department.  
+=======
+>>>>>>> 542ce4c4d7bdd683dc2066a824a936543421088f
